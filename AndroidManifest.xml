@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.epoint.project.dcloud"
     android:versionCode="570"
-    android:versionName="5.7.0" >
+    android:versionName="1.0.1" >
 
     <supports-screens
         android:anyDensity="true"
